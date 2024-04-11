@@ -1,6 +1,8 @@
-[submodule "thesis-frontend"]
-	path = thesis-frontend
-	url = git@github.com:Caophuoclong/thesis-frontend.git
-[submodule "thesis-backend"]
-	path = thesis-backend
-	url = git@github.com:Caophuoclong/thesis-backend.git
+[submodule "thesisfrontend"]
+	path = thesisfrontend
+	url = git@github.com:caophuoclong/thesisfrontend.git
+	branch = Dev
+[submodule "thesisbackend"]
+	path = thesisbackend
+	url = git@github.com:caophuoclong/thesisbackend.git
+	branch = main
